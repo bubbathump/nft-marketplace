@@ -1,0 +1,4 @@
+To run:
+	ganache --db /home/cgoebel/h75nftftw/blockchain/ -m h75nftftw -i 101
+	export NODE_OPTIONS=--openssl-legacy-provider
+  npm start
